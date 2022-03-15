@@ -1,6 +1,6 @@
 title: USWDS Sandbox
-baseurl: "https://mvogelgesang.github.io"
-url: "uswds-tutorial"
+baseurl: "/uswds-tutorial"
+url: "https://mvogelgesang.github.io"
 
 exclude:
   - assets/js/src
